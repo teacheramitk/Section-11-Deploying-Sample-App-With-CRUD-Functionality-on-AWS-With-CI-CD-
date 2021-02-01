@@ -65,7 +65,7 @@ Click on Start Build
 **Step 5. Now Goto S3>sample-node-app-amit>devbuild-crud**
 - See crud-cb >zip file
 
-# End of Lab
+### End of Lab
 
 
 
@@ -216,7 +216,7 @@ $ git add .
 $ git commit -m "modified validate.sh to ping on port 8080"
 $ git push
 ```
-# End of lab
+### End of lab
 
 
 # Deploy CRUD App on Single EC2 : Part 2 - Lab
@@ -319,7 +319,7 @@ Click on Update and exit
 **Step 22.Now Goto AWS Console>DynamoDB>Tables**
 - Refresh and see that Table is deleted
 
-# End of Lab
+### End of Lab
 
 
 
@@ -453,7 +453,7 @@ Click on Update
 **Step 34..Now Goto AWS Console>DynamoDB>Tables**
 - Refresh and see that Table is deleted
 
-# End of Lab
+### End of Lab
 
 
 
@@ -655,7 +655,7 @@ Click on Update and exit
 - Click on Send
 - It is working
 
-# End of Lab
+### End of Lab
 
 
 
@@ -802,7 +802,7 @@ Check for the data deleted
 - Refresh and see that Table is deleted
 
 
-# End of Lab
+### End of Lab
 
 
 # Codedeploy Deployment Configuration - Lab
@@ -905,7 +905,7 @@ Check for the data deleted
 - Refresh and see that Table is deleted
 
 
-# End of Lab
+### End of Lab
 
 
 
